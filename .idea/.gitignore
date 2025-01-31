@@ -1,0 +1,11 @@
+*.iml
+/compiler.xml
+/gradle.xml
+/jarRepositories.xml
+/libraries/*.xml
+/modules.xml
+/other.xml
+/shelf/
+/tasks.xml
+/usage.statistics.xml
+/workspace.xml

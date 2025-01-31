@@ -1,0 +1,3 @@
+#!/bin/sh -ex
+
+mvn clean install -B -q -Dmaven.javadoc.skip=true
